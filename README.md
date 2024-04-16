@@ -16,7 +16,7 @@
 
 ```
 Od 18.3. do 22.3. jsme se teoreticky připravovali a prakticky zkoušeli jak budeme pracovat s naším vlastním projektem.
-Stáhli jsme si potřebné knihovny a začali studovat dokumentaci potřebných programovacích jazyků.
+Stáhli jsme si potřebné knihovny a začali jsme studovat dokumentaci potřebných programovacích jazyků.
 ```
 
 > 11.4.2024
